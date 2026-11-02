@@ -1,0 +1,5 @@
+# Never commit personal save files or decrypted saves
+*.sav
+*.sav.bin
+*.bin
+backup-*/
